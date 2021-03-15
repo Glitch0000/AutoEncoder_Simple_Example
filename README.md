@@ -13,7 +13,7 @@ Encoded data:
 ![2](https://user-images.githubusercontent.com/64538407/111117311-087a5b80-8570-11eb-98ca-0bd8df8a6970.png)
 
 
-Decoded Data:
+Decoded Data: 
 
 
 ![1](https://user-images.githubusercontent.com/64538407/111117346-13cd8700-8570-11eb-874c-0a09c4a78aeb.png)
